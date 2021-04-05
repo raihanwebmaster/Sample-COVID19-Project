@@ -17,6 +17,10 @@
 ## Technologry: 
 + Reactjs
 + Material-UI
++ Rest API
++ Chart.js
++ CountUp.js
++ Netlify
 
 ## WHY YOU WAITING FOR. click below & check it out.
 ### [Live site](https://simple-covid19.netlify.app/) 
