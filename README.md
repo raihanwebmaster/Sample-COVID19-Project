@@ -1,5 +1,5 @@
 # COVID-19-tracker
-#### This is a website which carry information of COVID-19 whole over the world.
+#### This is a website which contain the information of COVID-19 whole over the world.
 
 
 ## Features:
